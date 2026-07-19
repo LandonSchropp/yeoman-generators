@@ -2,7 +2,7 @@
 
 This file provides guidance to coding agents working with code in this repository.
 
-@readme.md
+@README.md
 
 ## Running locally
 
